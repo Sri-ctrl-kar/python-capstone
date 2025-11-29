@@ -1,0 +1,8 @@
+
+Campus Energy Usage Summary
+===========================
+Total Campus Consumption: 326646 KWH
+Highest-Consuming Building: Cafeteria
+Peak Load Time: 2023-01-23 00:00:00
+Weekly Trends (Mean: 6163.13, Max: 7777.00)
+Daily Trends: See dashboard for visualizations.
